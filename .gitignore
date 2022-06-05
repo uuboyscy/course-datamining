@@ -161,3 +161,6 @@ cython_debug/
 test/
 Untitled*.ipynb
 */Untitled*.ipynb
+
+# Project
+module_06_Pandas_basis/00_textToDataFrame_source.ipynb
