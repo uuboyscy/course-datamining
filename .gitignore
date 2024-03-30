@@ -166,3 +166,6 @@ Untitled*.ipynb
 module_06_Pandas_basis/00_textToDataFrame_source.ipynb
 */test*
 resource/*.csv
+.DS_Store
+Pipfile.lock
+resource/.DS_Store
